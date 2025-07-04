@@ -30,3 +30,7 @@ Hi, I'm **Kartik Mehra** – a passionate web developer and designer from Hisar,
 - **Font Awesome** (icons)
 - **Google Fonts**
 
+---
+
+## Screenshoot
+https://github.com/Kartik392/Portfolio-/blob/89743585467350d922f73f0f466a04b9b31c6ccd/portfolio.png
